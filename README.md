@@ -79,8 +79,11 @@ This project is open-source under the **MIT License**.
 
 Feel free to submit issues, suggest improvements, or fork the repository to enhance the algorithm!
 
-Ibrahim Ahmad Garba
+## Group 7 members
+U22CS1062 https://github.com/Maryam876 
+U22CS1064 https://github.com/ahmad-ig
+https://github.com/thebuhariii
+https://github.com/Big-Major/U22CS1069
+https://github.com/U22cs1068/
+U22CS1070
 
-U22 CS 1064
-
-Group 7 Participant
