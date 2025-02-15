@@ -1,3 +1,4 @@
+## Group 7 member U22CS1064
 # Simplex-Algorithm
 Simplex Algorithm implementation in c++
 
@@ -79,11 +80,4 @@ This project is open-source under the **MIT License**.
 
 Feel free to submit issues, suggest improvements, or fork the repository to enhance the algorithm!
 
-## Group 7 members
-U22CS1062 https://github.com/Maryam876 
-U22CS1064 https://github.com/ahmad-ig
-https://github.com/thebuhariii
-https://github.com/Big-Major/U22CS1069
-https://github.com/U22cs1068/
-U22CS1070
 
